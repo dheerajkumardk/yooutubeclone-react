@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# This app is running at: https://nostalgic-swartz-00fe61.netlify.app
+
 ## Available Scripts
 
 In the project directory, you can run:
